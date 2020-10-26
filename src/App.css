@@ -79,9 +79,9 @@ a{
 }
 .home_container .image_container img{
   position: relative;
-  height: 26rem;
-  width: 18rem;
-  top:5rem;
+  /* height: 26rem; */
+  width: 24rem;
+  top:6rem;
   border-style: solid;
   border-width: 5px;
   border-top: 0px;
@@ -108,12 +108,20 @@ a{
   grid-gap: 1rem;
 }
 .work_container .projects_container img{
-  height: 20rem;
-  width: 20rem;
+  /* height: 20rem; */
+  width: 24rem;
 }
 .work_container .projects_container .title{
-  font-size: 1.2rem;
+  font-size: 1.4rem;
 }
+
+.work_container .projects_container .blurb {
+  width: 80%;
+  font-size: 0.8rem;
+
+}
+
+
 
 /* Contact */
 

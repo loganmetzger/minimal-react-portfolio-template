@@ -15,6 +15,9 @@ const Work = ({projects}) =>{
                     <div className="title">
                         {project.title}
                     </div>
+                    <div className='blurb'>
+                        {project.blurb}
+                    </div>
                 </div>
                 ))}
             </div>

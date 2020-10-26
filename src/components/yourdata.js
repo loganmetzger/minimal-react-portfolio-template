@@ -59,7 +59,7 @@ export default {
     {
       id: 6, //DO NOT CHANGE THIS (Please)😅
       title: "Hi, this is me!",
-      imageSrc: "https://via.placeholder.com/300",
+      imageSrc: "assets/me.jpeg",
       url: "https://www.linkedin.com/in/logan-c-metzger/",
       blurb: ''
     },

@@ -25,7 +25,7 @@ export default {
       // Image Size Should be (300X300 px)
       imageSrc: "assets/netflix.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://logan-netflix-clone.netlify.app/",
       blurb: 'Created a functional replica of Netlix with authorization. React, Router, custom hooks, Styled Components, and Firebase.'
     },
     {
@@ -37,31 +37,31 @@ export default {
     },
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
+      title: "Bridges to Prosperity",
+      imageSrc: "assets/bridges.png",
+      url: "https://main.d2plki9i7h2rum.amplifyapp.com/",
+      blurb: 'Worked with non profit to build app to aid in visualizing possible bridge locations in Rwanda. React, Mapbox, Material UI, Node.js/Express, Jest, Postgres'
+    },
+    {
+      id: 4, //DO NOT CHANGE THIS (Please)😅
       title: "Potluck Planner",
       imageSrc: "assets/potluck.png",
       url: "https://bw-frontend-mocha.vercel.app/",
       blurb: 'Created front-end architecture for project with two other students from Lambda School in four days. React, Redux, Tailwind CSS, Router, Jest, Git.'
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 5, //DO NOT CHANGE THIS (Please)😅
       title: "Expat Journal",
       imageSrc: "assets/expat.png",
       url: "https://front-end.bw-ft-expact-journal-2.vercel.app/",
       blurb: 'Created RESTful API back-end (no front-end involvment) for build week project with Lambda Students. Node/Express, Knex, SQLite3, custom middleware, JEST/SuperTest, Git.'
     },
     {
-      id: 5, //DO NOT CHANGE THIS (Please)😅
+      id: 6, //DO NOT CHANGE THIS (Please)😅
       title: "Anywhere Fitness",
       imageSrc: "assets/fitness.png",
       url: "https://anywherefitnessweb33.netlify.app/",
       blurb: 'Designed landing page for fictional fitness app. HTML5, LESS, Git.'
-    },
-    {
-      id: 6, //DO NOT CHANGE THIS (Please)😅
-      title: "Hi, this is me!",
-      imageSrc: "assets/me.jpeg",
-      url: "https://www.linkedin.com/in/logan-c-metzger/",
-      blurb: ''
     },
     // Paste more projects here from the template
 
